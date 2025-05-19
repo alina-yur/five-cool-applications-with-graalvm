@@ -8,14 +8,13 @@
 
 ##  In the Lab 👩‍🔬
 
-  * Llama3.java
-  * Native Image Layers
+  * [Native Image Layers](https://github.com/oracle/graal/issues/7626)
   * Project Crema
-  * `-H:Preserve=all`
-  * Embedding Python in Java
-  * Wasm backend for Native Image
+  * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
+  * [Embedding Python in Java](https://github.com/graalvm/graal-languages-demos/tree/main/graalpy)
+  * [Wasm backend for Native Image](https://graalvm.github.io/graalvm-demos/native-image/wasm-javac/)
 
   ## Get GraalVM
 
-  `sdk install java 24.0.1-graal`
-  
+  * `sdk install java 24.0.1-graal`
+  * [graalvm.org](https://www.graalvm.org/)
