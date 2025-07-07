@@ -5,7 +5,7 @@
 * An LLM inference engine 🤯 ([`llama3.java`](https://github.com/mukel/llama3.java))
 * AOT at the speed of JIT 🚀 ([`spring-petclinic`](https://github.com/spring-projects/spring-petclinic))
 * An extra secure application 🛡️ ([`native-spring-boot-sbom`](https://github.com/alina-yur/native-spring-boot-sbom))
-* Bonus application: Micronaut & GraalPy ([`graalpy-micronaut-pygal-charts`](https://github.com/graalvm/graal-languages-demos/tree/main/graalpy/graalpy-micronaut-pygal-charts))
+* Bonus application: Micronaut & GraalPy 📈 ([`graalpy-micronaut-pygal-charts`](https://github.com/graalvm/graal-languages-demos/tree/main/graalpy/graalpy-micronaut-pygal-charts))
 
 ##  In the Lab 👩‍🔬
 
